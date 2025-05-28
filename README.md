@@ -47,6 +47,11 @@ This project explores using **Differential Evolution (DE)** as an alternative to
 - Preprocessing: Normalized pixel values, one-hot encoding if required
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](results/image.png)
+
 
 ## 🧪 Algorithm & Experiment Setup
 
